@@ -1,0 +1,14 @@
+*_raw
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+/*.pdf
+*.snm
+*.toc
+*.ltjruby
+*.md
+raw
+data
