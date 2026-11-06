@@ -10,5 +10,6 @@
 *.toc
 *.ltjruby
 *.md
+!README.md
 raw
 data
